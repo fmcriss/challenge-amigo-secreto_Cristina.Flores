@@ -24,7 +24,7 @@ JavaScript: Lógica para gestionar la lista de amigos y realizar el sorteo.</br>
 Clona este repositorio en tu máquina local:
 
 1. Copia</br>
-<i>git clone https://github.com/tu-usuario/amigo-secreto.git</i></br></br>
+<i>git clone https://github.com/fmcriss/challenge-amigo-secreto_Cristina.Flores.git</i></br></br>
 2. Abre el archivo index.html en tu navegador preferido.
 
 <strong>Instrucciones de Uso</strong></br>
