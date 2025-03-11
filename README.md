@@ -6,6 +6,15 @@ Agregar nombres: Los usuarios pueden escribir los nombres de sus amigos en un ca
 Sorteo: Con un solo clic, el sistema selecciona de forma aleatoria a un "amigo secreto" de la lista de amigos.</br>
 Interactividad: El sistema responde a las interacciones del usuario, mostrando el nombre del amigo sorteado.</br>
 </br>
+![Captura de Pantalla 2025-03-10 a la(s) 23 18 35](https://github.com/user-attachments/assets/9f0f2a7d-b03e-4b13-aa88-941cd88b40b5)
+</br>
+
+
+https://github.com/user-attachments/assets/69b3a8c4-0a43-4e09-b07c-5eca167f5270
+
+
+
+</br>
 <strong>Tecnologías Utilizadas</strong></br>
 HTML5: Estructura básica de la página web.</br>
 CSS3: Estilos para hacer la interfaz amigable y atractiva.</br>
